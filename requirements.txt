@@ -1,0 +1,6 @@
+matplotlib==3.9.0
+mysql_connector_repackaged==0.3.1
+pandas==2.2.2
+python-dotenv==1.0.1
+pytz==2024.1
+streamlit==1.36.0
