@@ -1,9 +1,6 @@
 # Streamlit Projects
 
 ## Overview
-This repository contains Streamlit applications for data cleaning, timestamp management and data analysis.
-
-## Applications
 
 ### Data Cleaner
 The Data Cleaner application provides a user-friendly interface for cleaning and processing tabular data files (CSV, XLS, XLSX). Operations include:
